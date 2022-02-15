@@ -1,0 +1,20 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.ta1{
+    background-color: rgb(26, 92, 136);
+    color: white;
+    text-align: center;
+}
+.ta2{
+    background-color: rgb(26, 92, 136);
+    color: white;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+div ul a{
+    font-size: 1.5rem;
+}
